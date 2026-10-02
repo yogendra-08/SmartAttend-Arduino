@@ -1,4 +1,8 @@
-# 📡 AttendSync
+<p align="center">
+  <img src="images/project-banner.png" alt="SmartAttend-Arduino Banner">
+</p>
+
+# 📡 SmartAttend-Arduino
 
 > Smart Attendance System using Arduino UNO, RFID, Python, LCD Display, Buzzer, and CSV Logging.
 
